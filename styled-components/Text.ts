@@ -1,7 +1,7 @@
 import { styled } from "@gluestack-style/react";
 import { Text } from "react-native";
 
-export const StyledButtonText = styled(
+export const StyledText = styled(
     Text,
     {
       fontWeight: "700",
